@@ -19,6 +19,11 @@ This project was developed to strengthen frontend development skills while gaini
 
 ---
 
+🔗 Live Demo 
+
+https://lavanyabadisetti-ui.github.io/Language_Translator/
+
+
 ✨ Key Features
 
 🔹 Real-time text translation
