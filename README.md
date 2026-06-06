@@ -177,8 +177,6 @@ The primary objectives of this project were:
 
 🔸 Dark/Light Theme Toggle
 
-🔸 Copy-to-Clipboard Functionality
-
 🔸 Offline Translation Support
 
 🔸 Language Auto-Detection
