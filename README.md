@@ -92,7 +92,7 @@ Language-Translation-Tool/
 │
 ├── index.html      # Application Structure
 ├── style.css       # User Interface Styling
-├── script.js       # Translation Logic & API Calls
+├── source.js       # Translation Logic & API Calls
 └── README.md       # Project Documentation
 
 ---
